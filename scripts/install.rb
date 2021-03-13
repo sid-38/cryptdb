@@ -37,7 +37,7 @@ def get_pkgs
                 libevent-dev libglib2.0-dev libgmp-dev          \
                 mysql-server libaio-dev automake                \
                 gtk-doc-tools flex cmake libncurses5-dev        \
-                bison g++ make
+                g++ make
     })
 end
 
